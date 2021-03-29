@@ -7,5 +7,3 @@ Working paths:
 3. Fullscreen;
 4. Toggle letters/notes;
 
-Still not working path:
-1. Mouseover music.
